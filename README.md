@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome To my GitHub profile 👋
 
 <!--
 **EdsonCosta13/EdsonCosta13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Welcome to my GitHub,my name is Edson,I'm a  backend developer.
+- 🔭 I’m currently working on backend
+- 🌱 I’m currently learning AngularJs
+- 📫 How to reach me: edsonpaulojoaodacosta@gmail.com
+
+<div>
+<img heigth="180" src="https://github-readme-stats.vercel.app/api?username=EdsonCosta13">
+<img heigth="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdsonCosta13&langs_count=8">
+
+</div>
+### Let's get connected
+ 
+
+
+
