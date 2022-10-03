@@ -13,12 +13,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 📫 How to reach me: edsonpaulojoaodacosta@gmail.com
 -->
 
 Welcome to my GitHub,my name is Edson,I'm a  backend developer.
 - 🔭 I’m currently working on backend
 - 🌱 I’m currently learning Angular
-- 📫 How to reach me: edsonpaulojoaodacosta@gmail.com
+
 
 <div>
 <img heigth="180" src="https://github-readme-stats.vercel.app/api?username=EdsonCosta13">
