@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Welcome to my GitHub,my name is Edson,I'm a  backend developer.
 - 🔭 I’m currently working on backend
-- 🌱 I’m currently learning AngularJs and Java
+- 🌱 I’m currently learning Angular
 - 📫 How to reach me: edsonpaulojoaodacosta@gmail.com
 
 <div>
