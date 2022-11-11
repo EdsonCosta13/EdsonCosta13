@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 Welcome to my GitHub,my name is Edson,I'm a  backend developer.
 - 🔭 I’m currently working on backend
 - 🌱 I’m currently learning Angular
-- 🌱 I’m currently learning Kotlin
 
 
 <div>
