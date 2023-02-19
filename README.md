@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 Welcome to my GitHub,my name is Edson,I'm a  Software developer.
 - 🔭 I’m currently working on backend
-- 🌱 I’m currently learning Angular and 
+- 🌱 I’m currently learning Angular and Java
 
 
 <div>
